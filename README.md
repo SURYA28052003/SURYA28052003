@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **FLUTTER,REACTJS**
 
-- ⚡ Fun fact **LEARN...LEARN...LEARN**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@s_rya28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rya28" height="30" width="40" /></a>
