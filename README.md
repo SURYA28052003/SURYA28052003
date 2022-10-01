@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SURYA</h1>
-<h3 align="center">PROGARMMING</h3>
+<h3 align="center">STUDENT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya28052003&label=Profile%20views&color=0e75b6&style=flat" alt="surya28052003" /> </p>
 
