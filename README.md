@@ -25,6 +25,8 @@
 
 ![SURYA28052003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYA28052003&theme=gruvbox&hide_border=false)
 
+<img  align="right" src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="coding gif" height="300" width="400"></img>
+
 ![SURYA28052003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SURYA28052003&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
-<img  align="right" src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="coding gif" height="300" width="400"></img>
+
