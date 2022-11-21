@@ -4,6 +4,7 @@
 
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya28052003&label=Profile%20views&color=0e75b6&style=flat" alt="surya28052003" /> </p>
 
 - 🔭 I’m currently working on **WEB AND ANDROID DEVELOPMENT**
@@ -25,7 +26,7 @@
 
 ![SURYA28052003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYA28052003&theme=gruvbox&hide_border=false)
 
-<img  align="right" src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="coding gif" height="300" width="400"></img>
+<img  align="right" src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="coding gif" height="300" width="300"></img>
 
 ![SURYA28052003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SURYA28052003&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
