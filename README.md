@@ -23,7 +23,7 @@
 
 
 
-![SURYA28052003's Stats](https://github-readme-stats.vercel.app/api?username=SURYA28052003&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+<center>![SURYA28052003's Stats](https://github-readme-stats.vercel.app/api?username=SURYA28052003&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)</center>
 
 ![SURYA28052003's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYA28052003&theme=gruvbox&hide_border=false)
 
