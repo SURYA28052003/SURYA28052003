@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **WEB AND ANDROID DEVELOPMENT**
 
-- 🌱 I’m currently learning **JAVASCRIPT,REACTJS**
+- 🌱 I’m currently learning **Django,JAVASCRIPT,REACTJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
